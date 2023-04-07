@@ -2,4 +2,5 @@
 
 - Clone về
 - Mở project
+- npm install
 - npm start
